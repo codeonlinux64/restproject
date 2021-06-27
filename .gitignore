@@ -1,0 +1,15 @@
+Tadmin/db.sqlite3
+admin/.dbdata/auto.cnf
+admin/.dbdata/ca-key.pem
+admin/.dbdata/ca.pem
+admin/.dbdata/client-cert.pem
+admin/.dbdata/client-key.pem
+admin/.dbdata/ib_buffer_pool
+admin/.dbdata/ib_logfile0
+admin/.dbdata/ib_logfile1
+admin/.dbdata/ibdata1
+admin/.dbdata/ibtmp1
+admin/.dbdata/private_key.pem
+admin/.dbdata/public_key.pem
+admin/.dbdata/server-cert.pem
+admin/.dbdata/server-key.pem
