@@ -13,3 +13,17 @@ admin/.dbdata/private_key.pem
 admin/.dbdata/public_key.pem
 admin/.dbdata/server-cert.pem
 admin/.dbdata/server-key.pem
+main/.dbdata/auto.cnf
+main/.dbdata/ca-key.pem
+main/.dbdata/ca.pem
+main/.dbdata/client-cert.pem
+main/.dbdata/client-key.pem
+main/.dbdata/ib_buffer_pool
+main/.dbdata/ib_logfile0
+main/.dbdata/ib_logfile1
+main/.dbdata/ibdata1
+main/.dbdata/ibtmp1
+main/.dbdata/private_key.pem
+main/.dbdata/public_key.pem
+main/.dbdata/server-cert.pem
+main/.dbdata/server-key.pem
